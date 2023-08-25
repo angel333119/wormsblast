@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "worm", "worm.csproj", "{B1938595-C9DD-473C-B445-191DD3D82CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1938595-C9DD-473C-B445-191DD3D82CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1938595-C9DD-473C-B445-191DD3D82CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1938595-C9DD-473C-B445-191DD3D82CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1938595-C9DD-473C-B445-191DD3D82CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F6DCE3-E19F-4FC1-B63A-9B29A4EDAAAE}
+	EndGlobalSection
+EndGlobal
