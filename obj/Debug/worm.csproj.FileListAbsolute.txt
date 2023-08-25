@@ -4,8 +4,8 @@ D:\333\source\repos\worm\obj\Debug\worm.Form1.resources
 D:\333\source\repos\worm\obj\Debug\worm.Properties.Resources.resources
 D:\333\source\repos\worm\obj\Debug\worm.csproj.GenerateResource.cache
 D:\333\source\repos\worm\obj\Debug\worm.csproj.CoreCompileInputs.cache
-D:\333\source\repos\worm\bin\Debug\Worms Blast Audio tool.exe.config
-D:\333\source\repos\worm\bin\Debug\Worms Blast Audio tool.exe
-D:\333\source\repos\worm\bin\Debug\Worms Blast Audio tool.pdb
-D:\333\source\repos\worm\obj\Debug\Worms Blast Audio tool.exe
-D:\333\source\repos\worm\obj\Debug\Worms Blast Audio tool.pdb
+D:\333\source\repos\worm\bin\Debug\Worms Blast Audio and Text tool.exe.config
+D:\333\source\repos\worm\bin\Debug\Worms Blast Audio and Text tool.exe
+D:\333\source\repos\worm\bin\Debug\Worms Blast Audio and Text tool.pdb
+D:\333\source\repos\worm\obj\Debug\Worms Blast Audio and Text tool.exe
+D:\333\source\repos\worm\obj\Debug\Worms Blast Audio and Text tool.pdb

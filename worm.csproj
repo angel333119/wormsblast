@@ -7,7 +7,7 @@
     <ProjectGuid>{B1938595-C9DD-473C-B445-191DD3D82CF6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>worm</RootNamespace>
-    <AssemblyName>Worms Blast Audio tool</AssemblyName>
+    <AssemblyName>Worms Blast Audio and Text tool</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
